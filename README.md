@@ -23,6 +23,6 @@ BLS Labor Force by Occupation data - https://www.bls.gov/oes/tables.htm
 Google Maps API - https://developers.google.com/maps
 Python Inquirer - https://pypi.python.org/pypi/inquirer
 
-###Project Links: 
+### Project Links: 
 Project Folder - https://drive.google.com/open?id=0BwL_ZJP28bYGVm44Y09NQ250Z00 
 GitHub - https://github.com/TurnpikeWarrior/Project_DissolvableData
