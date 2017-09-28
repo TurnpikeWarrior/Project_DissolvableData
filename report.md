@@ -1,0 +1,1 @@
+\textbf{Overall Score} = Wu_1\times\ Population - Wu_2\times\ \text{Labor Force} + (Wu_3\times\ \text{Proximity to Airport} + Wu_4\times\ \text{Proximity to City Center})
