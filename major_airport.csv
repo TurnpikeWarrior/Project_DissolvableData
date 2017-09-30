@@ -1,0 +1,173 @@
+,id,ident,type,airport,latitude,longitude,country,state,city
+25500,16091,KABQ,large_airport,Albuquerque International Sunport Airport,35.040199,-106.609001,US,US-NM,Albuquerque
+25519,3364,KADW,large_airport,Andrews Air Force Base,38.810798999999996,-76.866997,US,US-MD,Camp Springs
+25532,3366,KAFW,large_airport,Fort Worth Alliance Airport,32.9875984192,-97.3188018799,US,US-TX,Fort Worth
+25536,3368,KAGS,large_airport,Augusta Regional At Bush Field,33.36989974975586,-81.9645004272461,US,US-GA,Augusta
+25569,3377,KAMA,large_airport,Rick Husband Amarillo International Airport,35.219398,-101.706001,US,US-TX,Amarillo
+25621,3384,KATL,large_airport,Hartsfield Jackson Atlanta International Airport,33.63669967651367,-84.4281005859375,US,US-GA,Atlanta
+25630,3386,KAUS,large_airport,Austin Bergstrom International Airport,30.194499969482425,-97.6698989868164,US,US-TX,Austin
+25634,3387,KAVL,large_airport,Asheville Regional Airport,35.43619918823242,-82.54180145263672,US,US-NC,Asheville
+25658,3391,KBAB,large_airport,Beale Air Force Base,39.136100769,-121.43699646,US,US-CA,Marysville
+25659,3392,KBAD,large_airport,Barksdale Air Force Base,32.5018005371,-93.6626968384,US,US-LA,Bossier City
+25676,3396,KBDL,large_airport,Bradley International Airport,41.9388999939,-72.68319702149999,US,US-CT,Hartford
+25691,3401,KBFI,large_airport,Boeing Field King County International Airport,47.52999877929688,-122.302001953125,US,US-WA,Seattle
+25701,3405,KBGR,large_airport,Bangor International Airport,44.80739974975586,-68.82810211181639,US,US-ME,Bangor
+25705,3406,KBHM,large_airport,Birmingham-Shuttlesworth International Airport,33.56290054,-86.75350189,US,US-AL,Birmingham
+25711,3408,KBIL,large_airport,Billings Logan International Airport,45.807701110839844,-108.54299926757812,US,US-MT,Billings
+25733,3417,KBLV,large_airport,Scott AFB/Midamerica Airport,38.5452,-89.835197,US,US-IL,Belleville
+25737,3419,KBMI,large_airport,Central Illinois Regional Airport at Bloomington-Normal,40.47710037,-88.91590118,US,US-IL,Bloomington/Normal
+25741,3420,KBNA,large_airport,Nashville International Airport,36.1245002746582,-86.6781997680664,US,US-TN,Nashville
+25746,3421,KBOI,large_airport,Boise Air Terminal/Gowen field,43.56439972,-116.22299960000001,US,US-ID,Boise
+25747,3422,KBOS,large_airport,General Edward Lawrence Logan International Airport,42.36429977,-71.00520325,US,US-MA,Boston
+25768,3429,KBTR,large_airport,"Baton Rouge Metropolitan, Ryan Field",30.53319931,-91.14959717,US,US-LA,Baton Rouge
+25772,3431,KBUF,large_airport,Buffalo Niagara International Airport,42.94049835,-78.73220062,US,US-NY,Buffalo
+25786,3435,KBWI,large_airport,Baltimore/Washington International Thurgood Marshall Airport,39.17539978,-76.66829681,US,US-MD,Baltimore
+25825,3438,KCAE,large_airport,Columbia Metropolitan Airport,33.93880081176758,-81.11949920654297,US,US-SC,Columbia
+25835,3441,KCBM,large_airport,Columbus Air Force Base,33.643798828099996,-88.44380187990002,US,US-MS,Columbus
+25873,3448,KCHA,large_airport,Lovell Field,35.03530120849609,-85.20379638671875,US,US-TN,Chattanooga
+25880,3450,KCHS,large_airport,Charleston Air Force Base-International Airport,32.89860153,-80.04049683,US,US-SC,Charleston
+25884,3451,KCID,large_airport,The Eastern Iowa Airport,41.88470077514648,-91.71080017089844,US,US-IA,Cedar Rapids
+25901,3454,KCLE,large_airport,Cleveland Hopkins International Airport,41.411701202399996,-81.8498001099,US,US-OH,Cleveland
+25908,3457,KCLT,large_airport,Charlotte Douglas International Airport,35.2140007019043,-80.94309997558594,US,US-NC,Charlotte
+25911,3458,KCMH,large_airport,Port Columbus International Airport,39.99800109863281,-82.89189910888672,US,US-OH,Columbus
+25934,3463,KCOS,large_airport,City of Colorado Springs Municipal Airport,38.805801391602,-104.70099639893,US,US-CO,Colorado Springs
+25940,3465,KCPR,large_airport,Casper-Natrona County International Airport,42.90800095,-106.4639969,US,US-WY,Casper
+25953,3466,KCRP,large_airport,Corpus Christi International Airport,27.77039909362793,-97.5011978149414,US,US-TX,Corpus Christi
+25957,3467,KCRW,large_airport,Yeager Airport,38.37310028076172,-81.59320068359375,US,US-WV,Charleston
+25975,3471,KCVG,large_airport,Cincinnati Northern Kentucky International Airport,39.0488014221,-84.6678009033,US,US-KY,Cincinnati
+25979,3473,KCVS,large_airport,Cannon Air Force Base,34.3828010559,-103.321998596,US,US-NM,Clovis
+26032,3478,KDAB,large_airport,Daytona Beach International Airport,29.179899,-81.058098,US,US-FL,Daytona Beach
+26035,3479,KDAL,large_airport,Dallas Love Field,32.847099,-96.851799,US,US-TX,Dallas
+26038,3481,KDAY,large_airport,James M Cox Dayton International Airport,39.90240097045898,-84.21939849853516,US,US-OH,Dayton
+26040,3482,KDBQ,large_airport,Dubuque Regional Airport,42.40200043,-90.70950317,US,US-IA,Dubuque
+26041,3483,KDCA,large_airport,Ronald Reagan Washington National Airport,38.8521,-77.037697,US,US-DC,Washington
+26050,3486,KDEN,large_airport,Denver International Airport,39.861698150635,-104.672996521,US,US-CO,Denver
+26055,3488,KDFW,large_airport,Dallas Fort Worth International Airport,32.896800994873054,-97.03800201416016,US,US-TX,Dallas-Fort Worth
+26067,3490,KDLF,large_airport,Laughlin Air Force Base,29.359500885,-100.77799987799999,US,US-TX,Del Rio
+26068,3491,KDLH,large_airport,Duluth International Airport,46.8420982361,-92.19360351559999,US,US-MN,Duluth
+26082,3494,KDOV,large_airport,Dover Air Force Base,39.12950134,-75.46600342,US,US-DE,Dover
+26096,3496,KDSM,large_airport,Des Moines International Airport,41.53400039672852,-93.66310119628906,US,US-IA,Des Moines
+26103,3497,KDTW,large_airport,Detroit Metropolitan Wayne County Airport,42.212398529052734,-83.35340118408203,US,US-MI,Detroit
+26128,3499,KDYS,large_airport,Dyess Air Force Base,32.4207992554,-99.85459899899999,US,US-TX,Abilene
+26493,3503,KEDW,large_airport,Edwards Air Force Base,34.905398999999996,-117.884003,US,US-CA,Edwards
+26537,3513,KEND,large_airport,Vance Air Force Base,36.339199066199996,-97.9164962769,US,US-OK,Enid
+26549,3515,KERI,large_airport,Erie International Tom Ridge Field,42.0831270134,-80.1738667488,US,US-PA,Erie
+26574,3521,KEWR,large_airport,Newark Liberty International Airport,40.69250106811523,-74.168701171875,US,US-NJ,Newark
+26661,3528,KFFO,large_airport,Wright-Patterson Air Force Base,39.8260993958,-84.04830169680001,US,US-OH,Dayton
+26677,3531,KFLL,large_airport,Fort Lauderdale Hollywood International Airport,26.072599411010746,-80.15270233154297,US,US-FL,Fort Lauderdale
+26712,3543,KFSM,large_airport,Fort Smith Regional Airport,35.33660125732422,-94.36740112304688,US,US-AR,Fort Smith
+26720,3545,KFTW,large_airport,Fort Worth Meacham International Airport,32.819801,-97.36239599999999,US,US-TX,Fort Worth
+26725,3547,KFWA,large_airport,Fort Wayne International Airport,40.97850037,-85.19509888,US,US-IN,Fort Wayne
+26805,3552,KGEG,large_airport,Spokane International Airport,47.61989974975586,-117.53399658203124,US,US-WA,Spokane
+26852,3561,KGPT,large_airport,Gulfport Biloxi International Airport,30.40730094909668,-89.07009887695312,US,US-MS,Gulfport
+26855,3562,KGRB,large_airport,Austin Straubel International Airport,44.48509979248047,-88.12960052490234,US,US-WI,Green Bay
+26864,3567,KGSB,large_airport,Seymour Johnson Air Force Base,35.33940125,-77.96060181,US,US-NC,Goldsboro
+26866,3568,KGSO,large_airport,Piedmont Triad International Airport,36.097801208496094,-79.93730163574219,US,US-NC,Greensboro
+26867,3569,KGSP,large_airport,Greenville Spartanburg International Airport,34.895698547399995,-82.2189025879,US,US-SC,Greenville
+26877,3573,KGUS,large_airport,Grissom Air Reserve Base,40.648101806599996,-86.15209960940001,US,US-IN,Peru
+26954,3579,KHIB,large_airport,Range Regional Airport,47.38660049,-92.83899689,US,US-MN,Hibbing
+26974,3584,KHMN,large_airport,Holloman Air Force Base,32.8525009155,-106.107002258,US,US-NM,Alamogordo
+26988,3588,KHOU,large_airport,William P Hobby Airport,29.64539909,-95.27890015,US,US-TX,Houston
+27012,3594,KHSV,large_airport,Huntsville International Carl T Jones Field,34.637199401855,-86.775100708008,US,US-AL,Huntsville
+27016,3595,KHTS,large_airport,Tri-State/Milton J. Ferguson Field,38.36669922,-82.55799866,US,US-WV,Huntington
+27082,3602,KIAD,large_airport,Washington Dulles International Airport,38.94449997,-77.45580292,US,US-DC,Washington
+27084,3604,KIAH,large_airport,George Bush Intercontinental Houston Airport,29.98439979553223,-95.34140014648438,US,US-TX,Houston
+27089,3605,KICT,large_airport,Wichita Mid Continent Airport,37.649898529052734,-97.43309783935548,US,US-KS,Wichita
+27119,3610,KIND,large_airport,Indianapolis International Airport,39.7173,-86.294403,US,US-IN,Indianapolis
+27156,3619,KJAN,large_airport,Jackson-Medgar Wiley Evers International Airport,32.3111991882,-90.0758972168,US,US-MS,Jackson
+27159,3620,KJAX,large_airport,Jacksonville International Airport,30.49410057067871,-81.68789672851562,US,US-FL,Jacksonville
+27167,3622,KJFK,large_airport,John F Kennedy International Airport,40.63980103,-73.77890015,US,US-NY,New York
+27175,3623,KJLN,large_airport,Joplin Regional Airport,37.151798248291016,-94.49829864501952,US,US-MO,Joplin
+27281,3631,KLAS,large_airport,McCarran International Airport,36.08010101,-115.15200039999999,US,US-NV,Las Vegas
+27283,3632,KLAX,large_airport,Los Angeles International Airport,33.94250107,-118.40799709999999,US,US-CA,Los Angeles
+27284,3633,KLBB,large_airport,Lubbock Preston Smith International Airport,33.663601,-101.822998,US,US-TX,Lubbock
+27295,3638,KLCK,large_airport,Rickenbacker International Airport,39.813801,-82.927803,US,US-OH,Columbus
+27303,3640,KLEX,large_airport,Blue Grass Airport,38.0364990234375,-84.60590362548828,US,US-KY,Lexington
+27304,3641,KLFI,large_airport,Langley Air Force Base,37.082901000999996,-76.360496521,US,US-VA,Hampton
+27306,3642,KLFT,large_airport,Lafayette Regional Airport,30.20529938,-91.98760223,US,US-LA,Lafayette
+27307,3643,KLGA,large_airport,La Guardia Airport,40.77719879,-73.87259674,US,US-NY,New York
+27322,3645,KLIT,large_airport,Bill & Hillary Clinton National Airport/Adams Field,34.729400634799994,-92.22429656979999,US,US-AR,Little Rock
+27368,3657,KLTS,large_airport,Altus Air Force Base,34.667098999000004,-99.26670074459999,US,US-OK,Altus
+27371,3658,KLUF,large_airport,Luke Air Force Base,33.534999847399995,-112.383003235,US,US-AZ,Glendale
+27478,3664,KMBS,large_airport,MBS International Airport,43.532901763916016,-84.07959747314453,US,US-MI,Saginaw
+27485,3667,KMCF,large_airport,Mac Dill Air Force Base,27.84930038,-82.52120209,US,US-FL,Tampa
+27486,3668,KMCI,large_airport,Kansas City International Airport,39.2976,-94.713898,US,US-MO,Kansas City
+27489,3670,KMCO,large_airport,Orlando International Airport,28.429399490356445,-81.30899810791016,US,US-FL,Orlando
+27500,3673,KMDW,large_airport,Chicago Midway International Airport,41.7859992980957,-87.75240325927734,US,US-IL,Chicago
+27505,3675,KMEM,large_airport,Memphis International Airport,35.04240036010742,-89.97669982910156,US,US-TN,Memphis
+27517,3680,KMGE,large_airport,Dobbins Air Reserve Base,33.91540146,-84.51629639,US,US-GA,Marietta
+27520,3681,KMGM,large_airport,Montgomery Regional (Dannelly Field) Airport,32.30059814,-86.39399719,US,US-AL,Montgomery
+27530,3684,KMHT,large_airport,Manchester Airport,42.93259811401367,-71.43569946289062,US,US-NH,Manchester
+27532,3685,KMIA,large_airport,Miami International Airport,25.79319953918457,-80.29060363769531,US,US-FL,Miami
+27545,3690,KMKE,large_airport,General Mitchell International Airport,42.94720077514648,-87.89659881591797,US,US-WI,Milwaukee
+27560,3695,KMLI,large_airport,Quad City International Airport,41.44850158691406,-90.50749969482422,US,US-IL,Moline
+27565,3697,KMLU,large_airport,Monroe Regional Airport,32.51089859008789,-92.0376968383789,US,US-LA,Monroe
+27586,3700,KMOB,large_airport,Mobile Regional Airport,30.691200256348,-88.242797851562,US,US-AL,Mobile
+27617,3707,KMSN,large_airport,Dane County Regional Truax Field,43.13990020751953,-89.3375015258789,US,US-WI,Madison
+27619,3709,KMSP,large_airport,Minneapolis-St Paul International/Wold-Chamberlain Airport,44.8819999695,-93.22180175780001,US,US-MN,Minneapolis
+27622,3711,KMSY,large_airport,Louis Armstrong New Orleans International Airport,29.99340057373047,-90.25800323486328,US,US-LA,New Orleans
+27635,3715,KMUO,large_airport,Mountain Home Air Force Base,43.043597999999996,-115.872002,US,US-ID,Mountain Home
+27810,3744,KOAK,large_airport,Metropolitan Oakland International Airport,37.721298,-122.221001,US,US-CA,Oakland
+27838,3747,KOKC,large_airport,Will Rogers World Airport,35.39310073852539,-97.60070037841795,US,US-OK,Oklahoma City
+27866,3752,KONT,large_airport,Ontario International Airport,34.05599975585937,-117.60099792480469,US,US-CA,Ontario
+27880,3754,KORD,large_airport,Chicago O'Hare International Airport,41.97859955,-87.90480042,US,US-IL,Chicago
+27882,3755,KORF,large_airport,Norfolk International Airport,36.89459991455078,-76.20120239257812,US,US-VA,Norfolk
+28022,3765,KPAM,large_airport,Tyndall Air Force Base,30.0695991516,-85.57540130619998,US,US-FL,Panama City
+28029,3766,KPBI,large_airport,Palm Beach International Airport,26.68320083618164,-80.09559631347656,US,US-FL,West Palm Beach
+28039,3768,KPDX,large_airport,Portland International Airport,45.58869934,-122.59799960000001,US,US-OR,Portland
+28053,3770,KPHF,large_airport,Newport News Williamsburg International Airport,37.13190079,-76.49299622,US,US-VA,Newport News
+28057,3771,KPHL,large_airport,Philadelphia International Airport,39.87189865112305,-75.24109649658203,US,US-PA,Philadelphia
+28061,3772,KPHX,large_airport,Phoenix Sky Harbor International Airport,33.43429946899414,-112.01200103759766,US,US-AZ,Phoenix
+28062,3773,KPIA,large_airport,General Wayne A. Downing Peoria International Airport,40.664199829100006,-89.6932983398,US,US-IL,Peoria
+28069,3778,KPIT,large_airport,Pittsburgh International Airport,40.49150085,-80.23290253,US,US-PA,Pittsburgh
+28158,3796,KPWM,large_airport,Portland International Jetport Airport,43.64619827,-70.30930328,US,US-ME,Portland
+28411,3844,KRDU,large_airport,Raleigh Durham International Airport,35.877601623535156,-78.7874984741211,US,US-NC,Raleigh/Durham
+28415,3845,KRFD,large_airport,Chicago Rockford International Airport,42.19540023803711,-89.09719848632812,US,US-IL,Chicago/Rockford
+28422,3847,KRIC,large_airport,Richmond International Airport,37.50519943237305,-77.3197021484375,US,US-VA,Richmond
+28445,3852,KRND,large_airport,Randolph Air Force Base,29.52969933,-98.27890015,US,US-TX,Universal City
+28448,3853,KRNO,large_airport,Reno Tahoe International Airport,39.49909973144531,-119.76799774169922,US,US-NV,Reno
+28452,3854,KROA,large_airport,RoanokeâBlacksburg Regional Airport,37.3255,-79.975403,US,US-VA,Roanoke
+28453,3855,KROC,large_airport,Greater Rochester International Airport,43.118900299072266,-77.67240142822266,US,US-NY,Rochester
+28471,3857,KRST,large_airport,Rochester International Airport,43.90829849243164,-92.5,US,US-MN,Rochester
+28473,3858,KRSW,large_airport,Southwest Florida International Airport,26.53619956970215,-81.75520324707031,US,US-FL,Fort Myers
+28547,3862,KSAN,large_airport,San Diego International Airport,32.7336006165,-117.190002441,US,US-CA,San Diego
+28549,3863,KSAT,large_airport,San Antonio International Airport,29.533700942993164,-98.46980285644531,US,US-TX,San Antonio
+28550,3864,KSAV,large_airport,Savannah Hilton Head International Airport,32.12760162,-81.20210266,US,US-GA,Savannah
+28556,3868,KSBN,large_airport,South Bend Regional Airport,41.70869827270508,-86.31729888916016,US,US-IN,South Bend
+28570,3873,KSDF,large_airport,Louisville International Standiford Field,38.1744,-85.736,US,US-KY,Louisville
+28574,3875,KSEA,large_airport,Seattle Tacoma International Airport,47.44900131225586,-122.30899810791016,US,US-WA,Seattle
+28584,3876,KSFB,large_airport,Orlando Sanford International Airport,28.7775993347168,-81.23750305175781,US,US-FL,Orlando
+28587,3878,KSFO,large_airport,San Francisco International Airport,37.61899948120117,-122.375,US,US-CA,San Francisco
+28592,3879,KSGF,large_airport,Springfield Branson National Airport,37.24570084,-93.38860321,US,US-MO,Springfield
+28603,3882,KSHV,large_airport,Shreveport Regional Airport,32.44660186767578,-93.82559967041016,US,US-LA,Shreveport
+28608,3883,KSJC,large_airport,Norman Y. Mineta San Jose International Airport,37.362598,-121.929001,US,US-CA,San Jose
+28612,3885,KSKA,large_airport,Fairchild Air Force Base,47.6151008606,-117.65599823,US,US-WA,Spokane
+28618,3887,KSLC,large_airport,Salt Lake City International Airport,40.78839874267578,-111.97799682617188,US,US-UT,Salt Lake City
+28630,3892,KSMF,large_airport,Sacramento International Airport,38.69540023803711,-121.59100341796876,US,US-CA,Sacramento
+28636,3894,KSNA,large_airport,John Wayne Airport-Orange County Airport,33.67570114,-117.86799620000001,US,US-CA,Santa Ana
+28653,3897,KSPI,large_airport,Abraham Lincoln Capital Airport,39.84410095,-89.67790222,US,US-IL,Springfield
+28654,3898,KSPS,large_airport,Sheppard Air Force Base-Wichita Falls Municipal Airport,33.9888,-98.49189799999999,US,US-TX,Wichita Falls
+28663,3899,KSRQ,large_airport,Sarasota Bradenton International Airport,27.39539909362793,-82.55439758300781,US,US-FL,Sarasota/Bradenton
+28665,3901,KSSC,large_airport,Shaw Air Force Base,33.97269821,-80.47059631,US,US-SC,Sumter
+28675,3905,KSTL,large_airport,St Louis Lambert International Airport,38.748697,-90.370003,US,US-MO,St Louis
+28683,3907,KSUS,large_airport,Spirit of St Louis Airport,38.662101745605,-90.652000427246,US,US-MO,St Louis
+28685,3908,KSUU,large_airport,Travis Air Force Base,38.262699127196996,-121.92700195312,US,US-CA,Fairfield
+28687,3909,KSUX,large_airport,Sioux Gateway Col. Bud Day Field,42.40259933,-96.38439941,US,US-IA,Sioux City
+28701,3913,KSYR,large_airport,Syracuse Hancock International Airport,43.11119842529297,-76.1063003540039,US,US-NY,Syracuse
+28703,3914,KSZL,large_airport,Whiteman Air Force Base,38.73030090332,-93.547897338867,US,US-MO,Knob Noster
+28753,3918,KTCM,large_airport,McChord Air Force Base,47.1376991272,-122.475997925,US,US-WA,Tacoma
+28772,3921,KTIK,large_airport,Tinker Air Force Base,35.414699554443004,-97.386596679688,US,US-OK,Oklahoma City
+28782,3924,KTLH,large_airport,Tallahassee Regional Airport,30.396499633789066,-84.35030364990234,US,US-FL,Tallahassee
+28796,3925,KTOL,large_airport,Toledo Express Airport,41.58679962,-83.80780029,US,US-OH,Toledo
+28799,3926,KTPA,large_airport,Tampa International Airport,27.975500106811523,-82.533203125,US,US-FL,Tampa
+28806,3928,KTRI,large_airport,Tri-Cities Regional TN/VA Airport,36.475201,-82.40740100000001,US,US-TN,Bristol/Johnson/Kingsport
+28818,3930,KTUL,large_airport,Tulsa International Airport,36.19839859008789,-95.88809967041016,US,US-OK,Tulsa
+28820,3932,KTUS,large_airport,Tucson International Airport,32.116100311279304,-110.94100189208984,US,US-AZ,Tucson
+28836,3938,KTYS,large_airport,McGhee Tyson Airport,35.81100082,-83.99400329999999,US,US-TN,Knoxville
+28917,3944,KVBG,large_airport,Vandenberg Air Force Base,34.7373008728,-120.583999634,US,US-CA,Lompoc
+28945,3948,KVPS,large_airport,Destin-Ft Walton Beach Airport,30.4832,-86.525398,US,US-FL,Valparaiso
+28995,3951,KWRB,large_airport,Robins Air Force Base,32.640098571799996,-83.59190368649999,US,US-GA,Warner Robins
+36334,5360,PAFA,large_airport,Fairbanks International Airport,64.81510162,-147.85600280000003,US,US-AK,Fairbanks
+36409,5388,PANC,large_airport,Ted Stevens Anchorage International Airport,61.174400329589844,-149.99600219726562,US,US-AK,Anchorage
+36669,5453,PHNL,large_airport,Daniel K Inouye International Airport,21.32062,-157.924228,US,US-HI,Honolulu
+46946,317314,US-0303,large_airport,atl,33.137551,-84.375,US,US-U-A,
