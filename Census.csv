@@ -1,0 +1,304 @@
+City,Population,County,State,FullState,MSA,Population Score,Closest Airport,Proximity to Airport,Airport Score
+New York,8537673,Bronx County,NY,New York,"New York-Jersey City-White Plains, NY-NJ Metropolitan Division",10,Newark Liberty International Airport,28 min,0.8
+Los Angeles,3976322,Los Angeles County,CA,California,"Los Angeles-Long Beach-Glendale, CA Metropolitan Division",10,Los Angeles International Airport,25 min,2
+Chicago,2704958,Cook County,IL,Illinois,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",10,O'Hare International Airport,31 min,0
+Houston,2303482,Harris County,TX,Texas,"Houston-The Woodlands-Sugar Land, TX",10,George Bush Intercontinental Airport,21 min,3.6
+Phoenix,1615017,Maricopa County,AZ,Arizona,"Phoenix-Mesa-Scottsdale, AZ",10,Phoenix Sky Harbor International Airport,9 min,8.4
+Philadelphia,1567872,Philadelphia County,PA,Pennsylvania,"Philadelphia, PA Metropolitan Division",10,Philadelphia International Airport,16 min,5.6
+San Antonio,1492510,Bexar County,TX,Texas,"San Antonio-New Braunfels, TX",10,San Antonio International Airport,14 min,6.4
+San Diego,1406630,San Diego County,CA,California,"San Diego-Carlsbad, CA",10,San Diego International Airport,11 min,7.6
+Dallas,1317929,Dallas County,TX,Texas,"Dallas-Plano-Irving, TX Metropolitan Division",10,Dallas/Fort Worth International Airport,23 min,2.8
+San Jose,1025350,Santa Clara County,CA,California,"San Jose-Sunnyvale-Santa Clara, CA",10,Oakland International Airport,42 min,0
+Austin,947890,Travis County,TX,Texas,"Austin-Round Rock, TX",9.2,Austin-Bergstrom International Airport,15 min,6
+Jacksonville,880619,Duval County,FL,Florida,"Jacksonville, FL",8.6,Jacksonville International Airport,18 min,4.8
+San Francisco,870887,San Francisco County,CA,California,"San Francisco-Redwood City-South San Francisco, CA Metropolitan Division",8.5,Oakland International Airport,26 min,1.6
+Columbus,860090,Franklin County,OH,Ohio,"Columbus, OH",8.4,John Glenn Columbus International Airport,11 min,7.6
+Indianapolis,855164,Marion County,IN,Indiana,"Indianapolis-Carmel-Anderson, IN",8.3,Indianapolis International Airport,17 min,5.2
+Fort Worth,854113,Tarrant County,TX,Texas,"Dallas-Plano-Irving, TX Metropolitan Division",8.3,Dallas/Fort Worth International Airport,25 min,2
+Charlotte,842051,Mecklenburg County,NC,North Carolina,"Charlotte-Concord-Gastonia, NC-SC",8.2,Charlotte Douglas International Airport,16 min,5.6
+Seattle,704352,King County,WA,Washington,"Seattle-Bellevue-Everett, WA Metropolitan Division",6.9,Seattle-Tacoma International Airport,16 min,5.6
+Denver,693060,Denver County,CO,Colorado,"Denver-Aurora-Lakewood, CO",6.8,Denver International Airport,30 min,0
+El Paso,683080,El Paso County,TX,Texas,"El Paso, TX",6.7,Ciudad Juarez International Airport,36 min,0
+Washington,681170,District of Columbia,DC,District of Columbia,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",6.6,Baltimore/Washington International Thurgood Marshall Airport,46 min,0
+Boston,673184,Suffolk County,MA,Massachusetts,"Boston-Cambridge-Newton, MA NECTA Division",6.6,Boston Logan International Airport,7 min,9.2
+Detroit,672795,Wayne County,MI,Michigan,"Detroit-Dearborn-Livonia, MI Metropolitan Division",6.6,Detroit Metropolitan Wayne County Airport,25 min,2
+Nashville-Davidson County,660388,Davidson County,TN,Tennessee,"Nashville-Davidson--Murfreesboro--Franklin, TN",6.4,Nashville International Airport,12 min,7.2
+Memphis,652717,Shelby County,TN,Tennessee,"Memphis, TN-MS-AR",6.4,Memphis International Airport,13 min,6.8
+Portland,639863,Multnomah County,OR,Oregon,"Portland-Vancouver-Hillsboro, OR-WA",6.2,Portland International Airport,21 min,3.6
+Oklahoma City,638367,Oklahoma County,OK,Oklahoma,"Oklahoma City, OK",6.2,Will Rogers World Airport,14 min,6.4
+Las Vegas,632912,Clark County,NV,Nevada,"Las Vegas-Henderson-Paradise, NV",6.2,McCarran International Airport,15 min,6
+Lousville-Jefferson County,616261,Jefferson County,KY,Kentucky,"Louisville/Jefferson County, KY-IN",6,Louisville International Airport,10 min,8
+Baltimore,614664,Baltimore County,MD,Maryland,"Baltimore-Columbia-Towson, MD",6,Baltimore/Washington International Thurgood Marshall Airport,17 min,5.2
+Milwaukee,595047,Milwaukee County,WI,Wisconsin,"Milwaukee-Waukesha-West Allis, WI",5.8,General Mitchell International Airport,14 min,6.4
+Albuquerque,559277,Bernalillo County,NM,New Mexico,"Albuquerque, NM",5.5,Albuquerque International Sunport,10 min,8
+Tucson,530706,Pima County,AZ,Arizona,"Tucson, AZ",5.2,Tucson International Airport,23 min,2.8
+Fresno,522053,Fresno County,CA,California,"Fresno, CA",5.1,Fresno Yosemite International Airport,9 min,8.4
+Sacramento,495234,Sacramento County,CA,California,"Sacramento--Roseville--Arden-Arcade, CA",4.8,Sacramento International Airport,14 min,6.4
+Mesa,484587,Maricopa County,AZ,Arizona,"Phoenix-Mesa-Scottsdale, AZ",4.7,Phoenix Sky Harbor International Airport,18 min,4.8
+Kansas City,481420,Jackson County,MO,Missouri,"Kansas City, MO-KS",4.7,Kansas City International Airport,22 min,3.2
+Atlanta,472522,Fulton County,GA,Georgia,"Atlanta-Sandy Springs-Roswell, GA",4.6,Hartsfield-Jackson Atlanta International Airport,11 min,7.6
+Long Beach,470130,Los Angeles County,CA,California,"Los Angeles-Long Beach-Glendale, CA Metropolitan Division",4.6,Los Angeles International Airport,25 min,2
+Colorado Springs,465101,El Paso County,CO,Colorado,"Colorado Springs, CO",4.5,Colorado Springs Airport,18 min,4.8
+Raleigh,458880,Wake County,NC,North Carolina,"Raleigh, NC",4.5,Raleigh-Durham International Airport,19 min,4.4
+Miami,453579,Miami-Dade County,FL,Florida,"Miami-Miami Beach-Kendall, FL Metropolitan Division",4.4,Miami International Airport,14 min,6.4
+Virginia Beach,452602,Virginia Beach city,VA,Virginia,"Virginia Beach-Norfolk-Newport News, VA-NC",4.4,Norfolk International Airport,24 min,2.4
+Omaha,446970,Douglas County,NE,Nebraska,"Omaha-Council Bluffs, NE-IA",4.4,Millard Airport,17 min,5.2
+Oakland,420005,Alameda County,CA,California,"San Francisco-Redwood City-South San Francisco, CA Metropolitan Division",4.1,Oakland International Airport,14 min,6.4
+Minneapolis,413651,Hennepin County,MN,Minnesota,"Minneapolis-St. Paul-Bloomington, MN-WI",4,Minneapolis Saint Paul International Airport,15 min,6
+Tulsa,403090,Tulsa County,OK,Oklahoma,"Tulsa, OK",3.9,Tulsa International Airport,12 min,7.2
+Arlington,392772,Tarrant County,TX,Texas,"Dallas-Plano-Irving, TX Metropolitan Division",3.8,Dallas/Fort Worth International Airport,21 min,3.6
+New Orleans,391495,Orleans Parish,LA,Louisiana,"New Orleans-Metairie, LA",3.8,Louis Armstrong New Orleans International Airport,20 min,4
+Wichita,389902,Sedgwick County,KS,Kansas,"Wichita, KS",3.8,Wichita Dwight D. Eisenhower National Airport,12 min,7.2
+Cleveland,385809,Cuyahoga County,OH,Ohio,"Cleveland-Elyria, OH",3.8,Cleveland Hopkins International Airport,16 min,5.6
+Tampa,377165,Hillsborough County,FL,Florida,"Tampa-St. Petersburg-Clearwater, FL",3.7,Tampa International Airport,10 min,8
+Bakersfield,376380,Kern County,CA,California,"Bakersfield, CA",3.7,Meadows Field Airport,13 min,6.8
+Aurora,361710,Arapahoe County,CO,Colorado,"Denver-Aurora-Lakewood, CO",3.5,Denver International Airport,19 min,4.4
+Honolulu,351792,Honolulu County,HI,Hawaii,"Urban Honolulu, HI",3.4,Honolulu International Airport,13 min,6.8
+Anaheim,351043,Orange County,CA,California,"Los Angeles-Long Beach-Glendale, CA Metropolitan Division",3.4,LA/Ontario International Airport Terminal 4,40 min,0
+Santa Ana,334217,Orange County,CA,California,"Los Angeles-Long Beach-Glendale, CA Metropolitan Division",3.3,LA/Ontario International Airport Terminal 4,44 min,0
+Corpus Christi,325733,Nueces County,TX,Texas,"Corpus Christi, TX",3.2,Corpus Christi International Airport,9 min,8.4
+Riverside,324722,Riverside County,CA,California,"Riverside-San Bernardino-Ontario, CA",3.2,San Bernardino International Airport,25 min,2
+Lexington,318449,Fayette County,KY,Kentucky,"Lexington-Fayette, KY",3.1,Mount Sterling-Montgomery County Airport,43 min,0
+St. Louis,311404,St. Louis County,MO,Missouri,"St. Louis, MO-IL",3,St. Louis Lambert International Airport,19 min,4.4
+Stockton,307072,San Joaquin County,CA,California,"Stockton-Lodi, CA",3,Modesto City County Airport,41 min,0
+Pittsburgh,303625,Allegheny County,PA,Pennsylvania,"Pittsburgh, PA",3,Pittsburgh International Airport,22 min,3.2
+St. Paul,302398,Ramsey County,MN,Minnesota,"Minneapolis-St. Paul-Bloomington, MN-WI",2.9,Minneapolis Saint Paul International Airport,17 min,5.2
+Cincinnati,298800,Hamilton County,OH,Ohio,"Cincinnati, OH-KY-IN",2.9,Cincinnati/Northern Kentucky International Airport,18 min,4.8
+Anchorage,298192,Anchorage Municipality,AK,Alaska,"Anchorage, AK",2.9,Ted Stevens Anchorage International Airport,13 min,6.8
+Henderson,292969,Clark County,NV,Nevada,"Las Vegas-Henderson-Paradise, NV",2.9,McCarran International Airport,15 min,6
+Greensboro,287027,Guilford County,NC,North Carolina,"Greensboro-High Point, NC",2.8,Piedmont Triad International Airport,18 min,4.8
+Plano,286057,Collin County,TX,Texas,"Dallas-Plano-Irving, TX Metropolitan Division",2.8,Dallas/Fort Worth International Airport,30 min,0
+Newark,281764,Essex County,NJ,New Jersey,"New York-Jersey City-White Plains, NY-NJ Metropolitan Division",2.7,Newark Liberty International Airport,10 min,8
+Lincoln,280364,Lancaster County,NE,Nebraska,"Lincoln, NE",2.7,Millard Airport,49 min,0
+Toledo,278508,Lucas County,OH,Ohio,"Toledo, OH",2.7,"Harrisburg International Airport, 2 Terminal Dr, Middletown, PA 17057",Over 60 min,0
+Orlando,277173,Orange County,FL,Florida,"Orlando-Kissimmee-Sanford, FL",2.7,Orlando International Airport,23 min,2.8
+Chula Vista,267172,San Diego County,CA,California,"San Diego-Carlsbad, CA",2.6,San Diego International Airport,19 min,4.4
+Irvine,266122,Orange County,CA,California,"Los Angeles-Long Beach-Glendale, CA Metropolitan Division",2.6,LA/Ontario International Airport Terminal 4,45 min,0
+Fort Wayne,264488,Allen County,IN,Indiana,"Fort Wayne, IN",2.6,Fort Wayne International Airport,18 min,4.8
+Jersey City,264152,Hudson County,NJ,New Jersey,"New York-Jersey City-White Plains, NY-NJ Metropolitan Division",2.6,Newark Liberty International Airport,15 min,6
+Durham,263016,Durham County,NC,North Carolina,"Durham-Chapel Hill, NC",2.6,Raleigh-Durham International Airport,17 min,5.2
+St. Petersburg,260999,Pinellas County,FL,Florida,"Tampa-St. Petersburg-Clearwater, FL",2.5,Tampa International Airport,26 min,1.6
+Laredo,257156,Webb County,TX,Texas,"Laredo, TX",2.5,Laredo International Airport,9 min,8.4
+Buffalo,256902,Erie County,NY,New York,"Buffalo-Cheektowaga-Niagara Falls, NY",2.5,Buffalo Niagara International Airport,18 min,4.8
+Madison,252551,Dane County,WI,Wisconsin,"Madison, WI",2.5,Dane County Regional Airport,15 min,6
+Lubbock,252506,Lubbock County,TX,Texas,"Lubbock, TX",2.5,Lubbock Preston Smith International Airport,11 min,7.6
+Chandler,247477,Maricopa County,AZ,Arizona,"Phoenix-Mesa-Scottsdale, AZ",2.4,Phoenix Sky Harbor International Airport,23 min,2.8
+Scottsdale,246645,Maricopa County,AZ,Arizona,"Phoenix-Mesa-Scottsdale, AZ",2.4,Phoenix Sky Harbor International Airport,16 min,5.6
+Glendale,245895,Maricopa County,AZ,Arizona,"Phoenix-Mesa-Scottsdale, AZ",2.4,Phoenix Sky Harbor International Airport,21 min,3.6
+Reno,245255,Washoe County,NV,Nevada,"Reno, NV",2.4,Reno-Tahoe International Airport,7 min,9.2
+Norfolk,245115,Norfolk city,VA,Virginia,"Virginia Beach-Norfolk-Newport News, VA-NC",2.4,Norfolk International Airport,15 min,6
+Winston-Salem,242203,Davidson County,NC,North Carolina,"Winston-Salem, NC",2.4,Piedmont Triad International Airport,29 min,0.4
+North Las Vegas,238702,Clark County,NV,Nevada,"Las Vegas-Henderson-Paradise, NV",2.3,McCarran International Airport,19 min,4.4
+Irving,238289,Dallas County,TX,Texas,"Dallas-Plano-Irving, TX Metropolitan Division",2.3,Dallas/Fort Worth International Airport,14 min,6.4
+Chesapeake,237940,Chesapeake city,VA,Virginia,"Virginia Beach-Norfolk-Newport News, VA-NC",2.3,Norfolk International Airport,19 min,4.4
+Gilbert,237133,Maricopa County,AZ,Arizona,"Phoenix-Mesa-Scottsdale, AZ",2.3,Phoenix Sky Harbor International Airport,22 min,3.2
+Hialeah,236387,Miami-Dade County,FL,Florida,"Miami-Miami Beach-Kendall, FL Metropolitan Division",2.3,Miami International Airport,17 min,5.2
+Garland,234943,Dallas County,TX,Texas,"Dallas-Plano-Irving, TX Metropolitan Division",2.3,Dallas/Fort Worth International Airport,35 min,0
+Fremont,233136,Alameda County,CA,California,"San Francisco-Redwood City-South San Francisco, CA Metropolitan Division",2.3,Oakland International Airport,25 min,2
+Baton Rouge,227715,East Baton Rouge Parish,LA,Louisiana,"Baton Rouge, LA",2.2,Baton Rouge Metropolitan Airport,14 min,6.4
+Richmond,223170,Richmond city,VA,Virginia,"Richmond, VA",2.2,Richmond International Airport,13 min,6.8
+Boise,223154,Ada County,ID,Idaho,"Boise City, ID",2.2,Eckhart International Airport-1S1,2 min,10
+San Bernardino,216239,San Bernardino County,CA,California,"Riverside-San Bernardino-Ontario, CA",2.1,San Bernardino International Airport,9 min,8.4
+Spokane,215973,Spokane County,WA,Washington,"Spokane-Spokane Valley, WA",2.1,Spokane International Airport,10 min,8
+Des Moines,215472,Polk County,IA,Iowa,"Des Moines-West Des Moines, IA",2.1,Des Moines International Airport,14 min,6.4
+Modesto,212175,Stanislaus County,CA,California,"Modesto, CA",2.1,San Francisco International Airport,Over 60 min,0
+Birmingham,212157,Jefferson County,AL,Alabama,"Birmingham-Hoover, AL",2.1,Birmingham-Shuttlesworth International Airport,8 min,8.8
+Tacoma,211277,Pierce County,WA,Washington,"Seattle-Bellevue-Everett, WA Metropolitan Division",2.1,Seattle-Tacoma International Airport,28 min,0.8
+Fontana,209665,San Bernardino County,CA,California,"Riverside-San Bernardino-Ontario, CA",2,San Bernardino International Airport,26 min,1.6
+Rochester,208880,Monroe County,NY,New York,"Rochester, NY",2,Greater Rochester International Airport,9 min,8.4
+Oxnard,207906,Ventura County,CA,California,"Oxnard-Thousand Oaks-Ventura, CA",2,Santa Paula Airport,23 min,2.8
+Moreno Valley,205499,Riverside County,CA,California,"Riverside-San Bernardino-Ontario, CA",2,San Bernardino International Airport,29 min,0.4
+Fayetteville,204759,Cumberland County,NC,North Carolina,"Fayetteville, NC",2,Fayetteville Regional Airport,12 min,7.2
+Aurora,201110,Kane County,IL,Illinois,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",2,O'Hare International Airport,41 min,0
+Glendale,200831,Los Angeles County,CA,California,"Los Angeles-Long Beach-Glendale, CA Metropolitan Division",2,Los Angeles International Airport,37 min,0
+Yonkers,200807,Westchester County,NY,New York,"New York-Jersey City-White Plains, NY-NJ Metropolitan Division",2,Newark Liberty International Airport,43 min,0
+Huntington Beach,200652,Orange County,CA,California,"Los Angeles-Long Beach-Glendale, CA Metropolitan Division",2,LA/Ontario International Airport Terminal 4,Over 60 min,0
+Montgomery,200022,Montgomery County,AL,Alabama,"Montgomery, AL",2,Montgomery Regional Airport,12 min,7.2
+Amarillo,199582,Potter County,TX,Texas,"Amarillo, TX",1.9,Rick Husband Amarillo International Airport,15 min,6
+Little Rock,198541,Pulaski County,AR,Arkansas,"Little Rock-North Little Rock-Conway, AR",1.9,Bill and Hillary Clinton National Airport,12 min,7.2
+Akron,197633,Summit County,OH,Ohio,"Akron, OH",1.9,Cleveland Hopkins International Airport,42 min,0
+Columbus,197485,Muscogee County,GA,Georgia,"Columbus, GA-AL",1.9,Columbus Airport,Over 60 min,0
+Augusta-Richmond County,197081,Richmond County,GA,Georgia,"Augusta-Richmond County, GA-SC",1.9,Augusta Regional Airport,16 min,5.6
+Grand Rapids,196445,Kent County,MI,Michigan,"Grand Rapids-Wyoming, MI",1.9,Gerald R. Ford International Airport,18 min,4.8
+Shreveport,194920,Caddo Parish,LA,Louisiana,"Shreveport-Bossier City, LA",1.9,Shreveport Regional Airport,15 min,6
+Salt Lake City,193744,Salt Lake County,UT,Utah,"Salt Lake City, UT",1.9,Salt Lake City International Airport,9 min,8.4
+Huntsville,193079,Madison County,AL,Alabama,"Huntsville, AL",1.9,Huntsville International Airport,16 min,5.6
+Mobile,192904,Mobile County,AL,Alabama,"Mobile, AL",1.9,Trent Lott International Airport,34 min,0
+Tallahassee,190894,Leon County,FL,Florida,"Tallahassee, FL",1.9,Tallahassee International Airport,15 min,6
+Grand Prairie,190682,Dallas County,TX,Texas,"Dallas-Plano-Irving, TX Metropolitan Division",1.9,Dallas/Fort Worth International Airport,16 min,5.6
+Overland Park,188966,Johnson County,KS,Kansas,"Kansas City, MO-KS",1.8,Kansas City International Airport,32 min,0
+Knoxville,186239,Knox County,TN,Tennessee,"Knoxville, TN",1.8,McGhee Tyson Airport,16 min,5.6
+Port St Lucie,185132,St. Lucie County,FL,Florida,"Port St. Lucie, FL",1.8,Treasure Coast International Airport and Business Park,24 min,2.4
+Worcester,184508,Worcester County,MA,Massachusetts,"Worcester, MA-CT",1.8,Worcester Regional Airport - ORH,13 min,6.8
+Brownsville,183823,Cameron County,TX,Texas,"Brownsville-Harlingen, TX",1.8,Valley International Airport,36 min,0
+Tempe,182498,Maricopa County,AZ,Arizona,"Phoenix-Mesa-Scottsdale, AZ",1.8,Phoenix Sky Harbor International Airport,9 min,8.4
+Santa Clarita,181972,Los Angeles County,CA,California,"Los Angeles-Long Beach-Glendale, CA Metropolitan Division",1.8,Van Nuys Airport,23 min,2.8
+Newport News,181825,Newport News city,VA,Virginia,"Virginia Beach-Norfolk-Newport News, VA-NC",1.8,Norfolk International Airport,30 min,0
+Cape Coral,179804,Lee County,FL,Florida,"Cape Coral-Fort Myers, FL",1.8,Southwest Florida International Airport,27 min,1.2
+Providence,179219,Providence County,RI,Rhode Island,"Providence-Warwick, RI-MA",1.7,T. F. Green Airport,15 min,6
+Fort Lauderdale,178752,Broward County,FL,Florida,"Miami-Miami Beach-Kendall, FL Metropolitan Division",1.7,Miami International Airport,34 min,0
+Chattanooga,177571,Hamilton County,TN,Tennessee,"Chattanooga, TN-GA",1.7,Chattanooga Airport,19 min,4.4
+Rancho Cucamonga,176534,San Bernardino County,CA,California,"Riverside-San Bernardino-Ontario, CA",1.7,San Bernardino International Airport,35 min,0
+Oceanside,175464,San Diego County,CA,California,"San Diego-Carlsbad, CA",1.7,San Diego Airport,42 min,0
+Santa Rosa,175155,Sonoma County,CA,California,"Santa Rosa, CA",1.7,Napa County Airport,56 min,0
+Garden Grove,174858,Orange County,CA,California,"Los Angeles-Long Beach-Glendale, CA Metropolitan Division",1.7,LA/Ontario International Airport Terminal 4,45 min,0
+Vancouver,174826,Clark County,WA,Washington,"Portland-Vancouver-Hillsboro, OR-WA",1.7,Portland International Airport,17 min,5.2
+Sioux Falls,174360,Minnehaha County,SD,South Dakota,"Sioux Falls, SD",1.7,Sioux Falls Regional Airport,8 min,8.8
+Ontario,173212,San Bernardino County,CA,California,"Riverside-San Bernardino-Ontario, CA",1.7,San Bernardino International Airport,34 min,0
+McKinney,172298,Collin County,TX,Texas,"Dallas-Plano-Irving, TX Metropolitan Division",1.7,Dallas/Fort Worth International Airport,32 min,0
+Elk Grove,169743,Sacramento County,CA,California,"Sacramento--Roseville--Arden-Arcade, CA",1.7,Sacramento International Airport,28 min,0.8
+Jackson,169148,Hinds County,MS,Mississippi,"Jackson, MS",1.6,Jackson-Medgar Wiley Evers International Airport,18 min,4.8
+Pembroke Pines,168587,Broward County,FL,Florida,"Miami-Miami Beach-Kendall, FL Metropolitan Division",1.6,Miami International Airport,30 min,0
+Salem,167419,Marion County,OR,Oregon,"Salem, OR",1.6,A2 Global Shipping,Over 60 min,0
+Springfield,167319,Greene County,MO,Missouri,"Springfield, MO",1.6,Springfield-Branson National Airport,16 min,5.6
+Corona,166785,Riverside County,CA,California,"Riverside-San Bernardino-Ontario, CA",1.6,San Bernardino International Airport,37 min,0
+Eugene,166575,Lane County,OR,Oregon,"Eugene, OR",1.6,Eugene Airport,17 min,5.2
+Fort Collins,164207,Larimer County,CO,Colorado,"Fort Collins, CO",1.6,Reed Airport,Over 60 min,0
+Peoria,164173,Maricopa County,AZ,Arizona,"Phoenix-Mesa-Scottsdale, AZ",1.6,Phoenix Sky Harbor International Airport,27 min,1.2
+Frisco,163656,Collin County,TX,Texas,"Dallas-Plano-Irving, TX Metropolitan Division",1.6,Dallas/Fort Worth International Airport,26 min,1.6
+Cary,162320,Wake County,NC,North Carolina,"Raleigh, NC",1.6,Raleigh-Durham International Airport,13 min,6.8
+Lancaster,160106,Los Angeles County,CA,California,"Los Angeles-Long Beach-Glendale, CA Metropolitan Division",1.6,Palmdale Regional Airport,21 min,3.6
+Hayward,158937,Alameda County,CA,California,"San Francisco-Redwood City-South San Francisco, CA Metropolitan Division",1.6,Oakland International Airport,15 min,6
+Palmdale,157356,Los Angeles County,CA,California,"Los Angeles-Long Beach-Glendale, CA Metropolitan Division",1.5,Van Nuys Airport,48 min,0
+Salinas,157218,Monterey County,CA,California,"Salinas, CA",1.5,Salinas Muni Airport-SNS,7 min,9.2
+Alexandria,155810,Arlington County,VA,Virginia,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",1.5,Baltimore/Washington International Thurgood Marshall Airport,48 min,0
+Lakewood,154393,Jefferson County,CO,Colorado,"Denver-Aurora-Lakewood, CO",1.5,Denver International Airport,34 min,0
+Springfield,154074,Hampden County,MA,Massachusetts,"Springfield, MA-CT",1.5,Bradley International Airport,23 min,2.8
+Pasadena,153351,Harris County,TX,Texas,"Houston-The Woodlands-Sugar Land, TX",1.5,George Bush Intercontinental Airport,33 min,0
+Sunnyvale,152771,Santa Clara County,CA,California,"San Jose-Sunnyvale-Santa Clara, CA",1.5,Oakland International Airport,45 min,0
+Macon,152555,Bibb County,GA,Georgia,"Macon, GA",1.5,Middle Georgia Regional Airport,18 min,4.8
+Pomona,152494,Los Angeles County,CA,California,"Los Angeles-Long Beach-Glendale, CA Metropolitan Division",1.5,San Bernardino International Airport,41 min,0
+Hollywood,151998,Broward County,FL,Florida,"Miami-Miami Beach-Kendall, FL Metropolitan Division",1.5,Miami International Airport,28 min,0.8
+Kansas City,151709,Wyandotte County,KS,Kansas,"Kansas City, MO-KS",1.5,Kansas City International Airport,21 min,3.6
+Escondido,151613,San Diego County,CA,California,"San Diego-Carlsbad, CA",1.5,San Diego International Airport,37 min,0
+Clarksville,150287,Montgomery County,TN,Tennessee,"Clarksville, TN-KY",1.5,John C. Tune Airport,56 min,0
+Joliet,148262,Will County,IL,Illinois,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",1.4,O'Hare International Airport,49 min,0
+Rockford,147651,Winnebago County,IL,Illinois,"Rockford, IL",1.4,Chicago Rockford International Airport,13 min,6.8
+Torrance,147195,Los Angeles County,CA,California,"Los Angeles-Long Beach-Glendale, CA Metropolitan Division",1.4,Los Angeles International Airport,19 min,4.4
+Naperville,147122,Dupage County,IL,Illinois,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",1.4,O'Hare International Airport,37 min,0
+Paterson,147000,Passaic County,NJ,New Jersey,"New York-Jersey City-White Plains, NY-NJ Metropolitan Division",1.4,Newark Liberty International Airport,27 min,1.2
+Savannah,146763,Chatham County,GA,Georgia,"Savannah, GA",1.4,Savannah/Hilton Head International Airport,18 min,4.8
+Bridgeport,145936,Fairfield County,CT,Connecticut,"Bridgeport-Stamford-Norwalk, CT",1.4,Westchester County Airport,42 min,0
+Mesquite,143736,Dallas County,TX,Texas,"Dallas-Plano-Irving, TX Metropolitan Division",1.4,Dallas/Fort Worth International Airport,36 min,0
+Killeen,143400,Bell County,TX,Texas,"Killeen-Temple, TX",1.4,Killeen-Fort Hood Regional Airport,15 min,6
+Syracuse,143378,Onondaga County,NY,New York,"Syracuse, NY",1.4,Syracuse Hancock International Airport,10 min,8
+McAllen,142212,Hidalgo County,TX,Texas,"McAllen-Edinburg-Mission, TX",1.4,McAllen International Airport,7 min,9.2
+Pasadena,142059,Los Angeles County,CA,California,"Los Angeles-Long Beach-Glendale, CA Metropolitan Division",1.4,Los Angeles International Airport,38 min,0
+Bellevue,141400,King County,WA,Washington,"Seattle-Bellevue-Everett, WA Metropolitan Division",1.4,Seattle-Tacoma International Airport,21 min,3.6
+Fullerton,140721,Orange County,CA,California,"Los Angeles-Long Beach-Glendale, CA Metropolitan Division",1.4,LA/Ontario International Airport Terminal 4,39 min,0
+Orange,140504,Orange County,CA,California,"Los Angeles-Long Beach-Glendale, CA Metropolitan Division",1.4,LA/Ontario International Airport Terminal 4,42 min,0
+Dayton,140489,Greene County,OH,Ohio,"Dayton, OH",1.4,Dayton International Airport,15 min,6
+Miramar,138449,Broward County,FL,Florida,"Miami-Miami Beach-Kendall, FL Metropolitan Division",1.4,Miami International Airport,26 min,1.6
+Thornton,136703,Adams County,CO,Colorado,"Denver-Aurora-Lakewood, CO",1.3,Denver International Airport,30 min,0
+West Valley City,136574,Salt Lake County,UT,Utah,"Salt Lake City, UT",1.3,Salt Lake City International Airport,14 min,6.4
+Olathe,135473,Johnson County,KS,Kansas,"Kansas City, MO-KS",1.3,Kansas City International Airport,42 min,0
+Hampton,135410,Hampton city,VA,Virginia,"Virginia Beach-Norfolk-Newport News, VA-NC",1.3,Norfolk International Airport,22 min,3.2
+Warren,135125,Macomb County,MI,Michigan,"Detroit-Dearborn-Livonia, MI Metropolitan Division",1.3,Detroit Metropolitan Wayne County Airport,37 min,0
+Midland,134610,Midland County,TX,Texas,"Midland, TX",1.3,Midland International Air & Space Port,17 min,5.2
+Waco,134432,McLennan County,TX,Texas,"Waco, TX",1.3,Waco Regional Airport,15 min,6
+Charleston,134385,Charleston County,SC,South Carolina,"Charleston-North Charleston, SC",1.3,Charleston International Airport,22 min,3.2
+Columbia,134309,Richland County,SC,South Carolina,"Columbia, SC",1.3,Gilbert International Airport,33 min,0
+Denton,133808,Denton County,TX,Texas,"Dallas-Plano-Irving, TX Metropolitan Division",1.3,Dallas/Fort Worth International Airport,35 min,0
+Carrollton,133351,Dallas County,TX,Texas,"Dallas-Plano-Irving, TX Metropolitan Division",1.3,Dallas/Fort Worth International Airport,18 min,4.8
+Surprise,132677,Maricopa County,AZ,Arizona,"Phoenix-Mesa-Scottsdale, AZ",1.3,Phoenix Sky Harbor International Airport,40 min,0
+Roseville,132671,Placer County,CA,California,"Sacramento--Roseville--Arden-Arcade, CA",1.3,Sacramento International Airport,27 min,1.2
+Sterling Heights,132427,Macomb County,MI,Michigan,"Detroit-Dearborn-Livonia, MI Metropolitan Division",1.3,Detroit Metropolitan Wayne County Airport,43 min,0
+Murfreesboro,131947,Rutherford County,TN,Tennessee,"Nashville-Davidson--Murfreesboro--Franklin, TN",1.3,Nashville International Airport,35 min,0
+Gainesville,131591,Alachua County,FL,Florida,"Gainesville, FL",1.3,Gainesville Regional Airport,9 min,8.4
+Cedar Rapids,131127,Linn County,IA,Iowa,"Cedar Rapids, IA",1.3,The Eastern Iowa Airport,14 min,6.4
+Visalia,131074,Tulare County,CA,California,"Visalia-Porterville, CA",1.3,Fresno Yosemite International Airport,48 min,0
+Coral Springs,130059,Broward County,FL,Florida,"Miami-Miami Beach-Kendall, FL Metropolitan Division",1.3,Fort Lauderdale-Hollywood International Airport,29 min,0.4
+New Haven,129934,New Haven County,CT,Connecticut,"New Haven, CT",1.3,Tweed New Haven Airport,11 min,7.6
+Stamford,129113,Fairfield County,CT,Connecticut,"Bridgeport-Stamford-Norwalk, CT",1.3,John F. Kennedy International Airport,49 min,0
+Thousand Oaks,128888,Ventura County,CA,California,"Oxnard-Thousand Oaks-Ventura, CA",1.3,Los Angeles International Airport,46 min,0
+Concord,128726,Contra Costa County,CA,California,"San Francisco-Redwood City-South San Francisco, CA Metropolitan Division",1.3,Oakland International Airport,33 min,0
+Elizabeth,128640,Union County,NJ,New Jersey,"New York-Jersey City-White Plains, NY-NJ Metropolitan Division",1.3,Newark Liberty International Airport,9 min,8.4
+Lafayette,127626,Lafayette Parish,LA,Louisiana,"Lafayette, LA",1.2,New orleans airport,Over 60 min,0
+Kent,127514,King County,WA,Washington,"Seattle-Bellevue-Everett, WA Metropolitan Division",1.2,Seattle-Tacoma International Airport,17 min,5.2
+Topeka,126808,Shawnee County,KS,Kansas,"Topeka, KS",1.2,Clinton International Model Airport,31 min,0
+Simi Valley,126327,Ventura County,CA,California,"Oxnard-Thousand Oaks-Ventura, CA",1.2,Los Angeles International Airport,50 min,0
+Santa Clara,125948,Santa Clara County,CA,California,"San Jose-Sunnyvale-Santa Clara, CA",1.2,Oakland International Airport,43 min,0
+Athens-Clarke County,123371,Clarke County,GA,Georgia,"Athens-Clarke County, GA",1.2,Kennedy Intranational Airport,Over 60 min,0
+Hartford,123243,Hartford County,CT,Connecticut,"Hartford-West Hartford-East Hartford, CT",1.2,Bradley International Airport,18 min,4.8
+Victorville,122265,San Bernardino County,CA,California,"Riverside-San Bernardino-Ontario, CA",1.2,San Bernardino International Airport,49 min,0
+Abilene,122225,Taylor County,TX,Texas,"Abilene, TX",1.2,ABI Abilene Regional Airport,11 min,7.6
+Norman,122180,Cleveland County,OK,Oklahoma,"Oklahoma City, OK",1.2,Will Rogers World Airport,30 min,0
+Vallejo,121299,Solano County,CA,California,"Vallejo-Fairfield, CA",1.2,Oakland International Airport,40 min,0
+Berkeley,121240,Alameda County,CA,California,"San Francisco-Redwood City-South San Francisco, CA Metropolitan Division",1.2,Oakland International Airport,22 min,3.2
+Round Rock,120892,Williamson County,TX,Texas,"Austin-Round Rock, TX",1.2,Austin-Bergstrom International Airport,31 min,0
+Ann Arbor,120782,Washtenaw County,MI,Michigan,"Ann Arbor, MI",1.2,Detroit Metropolitan Wayne County Airport,32 min,0
+Fargo,120762,Cass County,ND,North Dakota,"Fargo, ND-MN",1.2,Hector International Airport,9 min,8.4
+Columbia,120612,Boone County,MO,Missouri,"Columbia, MO",1.2,Jefferson City Memorial Airport,32 min,0
+Allentown,120443,Lehigh County,PA,Pennsylvania,"Allentown-Bethlehem-Easton, PA-NJ",1.2,Lehigh Valley International Airport,11 min,7.6
+Evansville,119477,Vanderburgh County,IN,Indiana,"Evansville, IN-KY",1.2,Evansville Regional Airport,16 min,5.6
+Beaumont,118299,Jefferson County,TX,Texas,"Beaumont-Port Arthur, TX",1.2,Jack Brooks Regional Airport,17 min,5.2
+Odessa,117871,Ector County,TX,Texas,"Odessa, TX",1.1,Midland International Air & Space Port,16 min,5.6
+Wilmington,117525,New Hanover County,NC,North Carolina,"Wilmington, NC",1.1,Wilmington International Airport,12 min,7.2
+Arvada,117453,Jefferson County,CO,Colorado,"Denver-Aurora-Lakewood, CO",1.1,Denver International Airport,32 min,0
+Independence,117030,Jackson County,MO,Missouri,"Kansas City, MO-KS",1.1,Kansas City International Airport,36 min,0
+Provo,116868,Utah County,UT,Utah,"Provo-Orem, UT",1.1,Provo Airport Taxi Cab Shuttle,5 min,10
+Lansing,116020,Ingham County,MI,Michigan,"Lansing-East Lansing, MI",1.1,Capital Region International Airport,12 min,7.2
+El Monte,115807,Los Angeles County,CA,California,"Los Angeles-Long Beach-Glendale, CA Metropolitan Division",1.1,LA/Ontario International Airport Terminal 4,31 min,0
+Springfield,115715,Sangamon County,IL,Illinois,"Springfield, IL",1.1,Abraham Lincoln Capital Airport,14 min,6.4
+Fairfield,114756,Solano County,CA,California,"Vallejo-Fairfield, CA",1.1,Sacramento International Airport,48 min,0
+Clearwater,114361,Pinellas County,FL,Florida,"Tampa-St. Petersburg-Clearwater, FL",1.1,Tampa International Airport,30 min,0
+Peoria,114265,Peoria County,IL,Illinois,"Peoria, IL",1.1,General Wayne A. Downing Peoria International Airport,14 min,6.4
+Rochester,114011,Olmsted County,MN,Minnesota,"Rochester, MN",1.1,Rochester International Airport,Over 60 min,0
+Carlsbad,113952,San Diego County,CA,California,"San Diego-Carlsbad, CA",1.1,San Diego International Airport,39 min,0
+Westminster,113875,Adams County,CO,Colorado,"Denver-Aurora-Lakewood, CO",1.1,Denver International Airport,30 min,0
+West Jordan,113699,Salt Lake County,UT,Utah,"Salt Lake City, UT",1.1,Salt Lake City International Airport,19 min,4.4
+Pearland,113570,Brazoria County,TX,Texas,"Houston-The Woodlands-Sugar Land, TX",1.1,George Bush Intercontinental Airport,43 min,0
+Richardson,113347,Dallas County,TX,Texas,"Dallas-Plano-Irving, TX Metropolitan Division",1.1,Dallas/Fort Worth International Airport,24 min,2.4
+Downey,113267,Los Angeles County,CA,California,"Los Angeles-Long Beach-Glendale, CA Metropolitan Division",1.1,Los Angeles International Airport,26 min,1.6
+Miami Gardens,113058,Miami-Dade County,FL,Florida,"Miami-Miami Beach-Kendall, FL Metropolitan Division",1.1,Miami International Airport,20 min,4
+Temecula,113054,Riverside County,CA,California,"Riverside-San Bernardino-Ontario, CA",1.1,San Diego Airport,60 min,0
+Costa Mesa,112822,Orange County,CA,California,"Los Angeles-Long Beach-Glendale, CA Metropolitan Division",1.1,LA/Ontario International Airport Terminal 4,50 min,0
+College Station,112141,Brazos County,TX,Texas,"College Station-Bryan, TX",1.1,Easterwood Airport,10 min,8
+Elgin,112123,Kane County,IL,Illinois,"Chicago-Naperville-Arlington Heights, IL Metropolitan Division",1.1,O'Hare International Airport,30 min,0
+Murrieta,111674,Riverside County,CA,California,"Riverside-San Bernardino-Ontario, CA",1.1,San Diego Airport,Over 60 min,0
+Gresham,111523,Multnomah County,OR,Oregon,"Portland-Vancouver-Hillsboro, OR-WA",1.1,Portland International Airport,25 min,2
+High Point,111223,Guilford County,NC,North Carolina,"Greensboro-High Point, NC",1.1,Piedmont Triad International Airport,26 min,1.6
+Antioch,110898,Contra Costa County,CA,California,"San Francisco-Redwood City-South San Francisco, CA Metropolitan Division",1.1,Oakland International Airport,46 min,0
+Inglewood,110654,Los Angeles County,CA,California,"Los Angeles-Long Beach-Glendale, CA Metropolitan Division",1.1,Los Angeles International Airport,12 min,7.2
+Cambridge,110651,Middlesex County,MA,Massachusetts,"Boston-Cambridge-Newton, MA NECTA Division",1.1,Boston Logan International Airport,16 min,5.6
+Lowell,110558,Middlesex County,MA,Massachusetts,"Boston-Cambridge-Newton, MA NECTA Division",1.1,Boston Logan International Airport,35 min,0
+Manchester,110506,Hillsborough County,NH,New Hampshire,"Manchester, NH",1.1,Snow Airport,Over 60 min,0
+Billings,110323,Yellowstone County,MT,Montana,"Billings, MT",1.1,Billings Logan International Airport,8 min,8.8
+Pueblo,110291,Pueblo County,CO,Colorado,"Pueblo, CO",1.1,Pueblo Memorial Airport,15 min,6
+Palm Bay,110104,Brevard County,FL,Florida,"Palm Bay-Melbourne-Titusville, FL",1.1,Orlando Melbourne International Airport,12 min,7.2
+Centennial,109932,Arapahoe County,CO,Colorado,"Denver-Aurora-Lakewood, CO",1.1,Denver International Airport,29 min,0.4
+Richmond,109813,Contra Costa County,CA,California,"San Francisco-Redwood City-South San Francisco, CA Metropolitan Division",1.1,Oakland International Airport,26 min,1.6
+Ventura,109592,Ventura County,CA,California,"Oxnard-Thousand Oaks-Ventura, CA",1.1,Camarillo Airport,22 min,3.2
+Pompano Beach,109393,Broward County,FL,Florida,"Miami-Miami Beach-Kendall, FL Metropolitan Division",1.1,Miami International Airport,40 min,0
+North Charleston,109298,Charleston County,SC,South Carolina,"Charleston-North Charleston, SC",1.1,Charleston International Airport,11 min,7.6
+Everett,109043,Snohomish County,WA,Washington,"Seattle-Bellevue-Everett, WA Metropolitan Division",1.1,Jefferson County International Airport,Over 60 min,0
+Waterbury,108272,New Haven County,CT,Connecticut,"New Haven, CT",1.1,Bradley International Airport,48 min,0
+West Palm Beach,108161,Palm Beach County,FL,Florida,"Miami-Miami Beach-Kendall, FL Metropolitan Division",1.1,Palm Beach International Airport,9 min,8.4
+Boulder,108090,Boulder County,CO,Colorado,"Boulder, CO",1.1,Denver Airport Transportation,42 min,0
+West Covina,107847,Los Angeles County,CA,California,"Los Angeles-Long Beach-Glendale, CA Metropolitan Division",1.1,LA/Ontario International Airport Terminal 4,30 min,0
+Broken Arrow,107403,Tulsa County,OK,Oklahoma,"Tulsa, OK",1,Tulsa International Airport,14 min,6.4
+Clovis,106583,Fresno County,CA,California,"Fresno, CA",1,Fresno Yosemite International Airport,14 min,6.4
+Daly City,106472,San Mateo County,CA,California,"San Francisco-Redwood City-South San Francisco, CA Metropolitan Division",1,Oakland International Airport,31 min,0
+Lakeland,106420,Polk County,FL,Florida,"Lakeland-Winter Haven, FL",1,Tampa Airport,46 min,0
+Santa Maria,106290,Santa Barbara County,CA,California,"Santa Maria-Santa Barbara, CA",1,San Luis Obispo County Regional Airport,32 min,0
+Norwalk,106178,Los Angeles County,CA,California,"Los Angeles-Long Beach-Glendale, CA Metropolitan Division",1,LA/Ontario International Airport Terminal 4,46 min,0
+Sandy Springs,105703,Fulton County,GA,Georgia,"Atlanta-Sandy Springs-Roswell, GA",1,Hartsfield-Jackson Atlanta International Airport,29 min,0.4
+Hillsboro,105164,Washington County,OR,Oregon,"Portland-Vancouver-Hillsboro, OR-WA",1,Portland International Airport,46 min,0
+Green Bay,105139,Brown County,WI,Wisconsin,"Green Bay, WI",1,Green Bay Austin Straubel International Airport,16 min,5.6
+Tyler,104798,Smith County,TX,Texas,"Tyler, TX",1,Tyler Pounds Regional Airport,16 min,5.6
+Wichita Falls,104724,Wichita County,TX,Texas,"Wichita Falls, TX",1,Kickapoo Downtown Airport,9 min,8.4
+Lewisville,104659,Denton County,TX,Texas,"Dallas-Plano-Irving, TX Metropolitan Division",1,Dallas/Fort Worth International Airport,18 min,4.8
+Burbank,104447,Los Angeles County,CA,California,"Los Angeles-Long Beach-Glendale, CA Metropolitan Division",1,Los Angeles International Airport,38 min,0
+Greeley,103990,Weld County,CO,Colorado,"Greeley, CO",1,Reed Airport,Over 60 min,0
+San Mateo,103959,San Mateo County,CA,California,"San Francisco-Redwood City-South San Francisco, CA Metropolitan Division",1,Oakland International Airport,30 min,0
+El Cajon,103768,San Diego County,CA,California,"San Diego-Carlsbad, CA",1,San Diego International Airport,24 min,2.4
+Jurupa Valley,103541,Riverside County,CA,California,"Riverside-San Bernardino-Ontario, CA",1,LA/Ontario International Airport Terminal 4,19 min,4.4
+Rialto,103314,San Bernardino County,CA,California,"Riverside-San Bernardino-Ontario, CA",1,San Bernardino International Airport,21 min,3.6
+Davenport,102612,Scott County,IA,Iowa,"Davenport-Moline-Rock Island, IA-IL",1,Quad City International Airport,17 min,5.2
+League City,102010,Galveston County,TX,Texas,"Houston-The Woodlands-Sugar Land, TX",1,William P. Hobby Airport,23 min,2.8
+Davie,101871,Broward County,FL,Florida,"Miami-Miami Beach-Kendall, FL Metropolitan Division",1,Miami International Airport,31 min,0
+Las Cruces,101759,Doí±a Ana County,NM,New Mexico,"Las Cruces, NM",1,Las Cruces International Airport KLRU,20 min,4
+South Bend,101735,St. Joseph County,IN,Indiana,"South Bend-Mishawaka, IN-MI",1,South Bend International Airport,10 min,8
+Vista,101659,San Diego County,CA,California,"San Diego-Carlsbad, CA",1,San Diego Airport,47 min,0
+Renton,100953,King County,WA,Washington,"Seattle-Bellevue-Everett, WA Metropolitan Division",1,Seattle-Tacoma International Airport,11 min,7.6
+San Angelo,100702,Tom Green County,TX,Texas,"San Angelo, TX",1,San Angelo Regional Airport,18 min,4.8
