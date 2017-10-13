@@ -26,6 +26,6 @@ We have downloaded a database for city population from the U.S. Census Bureau. W
 [Python Inquirer](https://pypi.python.org/pypi/inquirer)  
 
 ### Project Links: 
-GitHub - https://github.com/TurnpikeWarrior/Project_DissolvableData
-YouTube - https://youtu.be/o_ya8Bv0BLw  
+GitHub - https://github.com/TurnpikeWarrior/Project_DissolvableData  
+YouTube - https://youtu.be/o_ya8Bv0BLw   
 Jupyter Notebook - https://github.com/TurnpikeWarrior/Project_DissolvableData/blob/master/DissolvableData_Solution.ipynb
